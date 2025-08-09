@@ -1,0 +1,2 @@
+# KTLT_PYTHONG
+Lop chieu T7 - N2_304
