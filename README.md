@@ -1,2 +1,2 @@
 # KTLT_PYTHONG
-Lop chieu T7 - N2_304
+Lớp chiều thứ 7 NT-304
