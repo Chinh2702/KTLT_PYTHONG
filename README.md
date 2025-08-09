@@ -1,2 +1,2 @@
 # KTLT_PYTHONG
-Lớp chiều thứ 7 NT-304
+Lớp chiều thứ 7 N2-304
